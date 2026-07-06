@@ -10,7 +10,7 @@ Each folder in this repo is a standalone mini project , self-contained with its 
 New projects get added as I build them, so ⭐ star/watch the repo if you want to follow along!
 
 ## 🗂️ Projects
-| 1 | [Rock Paper Scissors](./Rock-Paper-Scissors) | HTML, CSS, JS | Classic game with real-time result display and score tracking |
+| 1 | [Rock Paper Scissors](./Rock-Paper-Scissors) | HTML, CSS, JS | Classic game with real-time result display and score tracking |with pink-themed UI :D
 
 ## 🛠️ Tech I'm Practicing
 
