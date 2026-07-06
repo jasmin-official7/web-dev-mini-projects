@@ -9,6 +9,9 @@ This repo is my personal playground to practice concepts, experiment with new te
 Each folder in this repo is a standalone mini project , self-contained with its own code.
 New projects get added as I build them, so ⭐ star/watch the repo if you want to follow along!
 
+## 🗂️ Projects
+| 1 | [Rock Paper Scissors](./Rock-Paper-Scissors) | HTML, CSS, JS | Classic game with real-time result display and score tracking |
+
 ## 🛠️ Tech I'm Practicing
 
 - 🌐 Frontend: HTML, CSS, JavaScript, React (MERN stack learning in progress)
