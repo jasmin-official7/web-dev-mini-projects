@@ -10,7 +10,7 @@ Each folder in this repo is a standalone mini project , self-contained with its 
 New projects get added as I build them, so ⭐ star/watch the repo if you want to follow along!
 
 ## 🗂️ Projects
-| 1 | [Rock Paper Scissors](./Rock-Paper-Scissors) | HTML, CSS, JS | Classic game with real-time result display and score tracking | with pink themed UI :D<br>
+| 1 | [Rock Paper Scissors](./Rock-Paper-Scissors) | HTML, CSS, JS | Classic game with real-time result display and score tracking | with pink themed UI :D | added Autoplay mode<br>
 | 2 | [Simple Calculator](./Simple-Calculator) | HTML, CSS, JS | Basic calculator supporting addition, subtraction, multiplication, and division | blue-gray themed UI :)<br>
 | 3 | [BMI Calculator](./BMI-Calculator) | HTML, CSS, JS | Calculates Body Mass Index from user-input height and weight, and displays the corresponding health category
 
