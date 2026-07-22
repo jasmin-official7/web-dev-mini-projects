@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
   background-color: rgb(248, 226, 230);
   color: rgb(187, 74, 95);
@@ -56,3 +57,63 @@ body{
   background-color: rgb(255, 186, 199);
   box-shadow: none;
 }
+=======
+body{
+  background-color: rgb(248, 226, 230);
+  color: rgb(187, 74, 95);
+  font-family: serif;
+  font-size: 20px;
+}
+.page-title{
+  font-size: 35px;
+  font-weight: bold;
+}
+.move-btn{
+  background-color: transparent;
+  border: 3px solid rgb(255, 150, 170);
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.move-btn:hover{
+  background-color: rgb(248, 238, 240);
+  border: 3px solid rgb(255, 150, 170);
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.move-icon{
+  height: 50px;
+}
+.css-result{
+  font-size: 25px;
+  font-weight: bold;
+}
+.score{
+  margin-top: 60px;
+}
+.reset-score-btn{
+  padding: 15px;
+  font-size: medium;
+  border: none;
+  background-color: rgb(254, 114, 140);
+  color: white;
+  font-weight: bold;
+  border-radius: 20px;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.reset-score-btn:hover{
+  transition: background-color 0.15s;
+  background-color: rgb(255, 146, 166);
+}
+.reset-score-btn:hover:active{
+  transform: scale(0.96);
+  background-color: rgb(255, 186, 199);
+  box-shadow: none;
+}
+>>>>>>> d4ecf64b1014994c4d4417992d30b644a0e836ce

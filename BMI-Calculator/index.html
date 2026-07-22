@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,4 +24,31 @@
     </div>
   </div>
 </body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BMI Calculator</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+  <div class="container">
+    <p class="heading">BMI Calculator</p>
+    <div class="sub-container">
+      <label for="weight">Enter your weight (in kg):</label>
+      <input type="number" name="weight" class="js-input-weight css-inputs" placeholder="eg:58">
+      <label for="height">Enter your height (in cm):</label>
+      <input type="number" name="height" class="js-input-height css-inputs" placeholder="eg:164" onkeydown="heightInput(event);">
+    </div>
+    <div class="container-result">
+      <button class="js-do-calculation css-calculate-btn" onclick="calculateBMI();">Calculate</button>
+      <p class="js-result">BMI:</p>
+      <p class="js-display-description"></p>
+    </div>
+  </div>
+</body>
+>>>>>>> d4ecf64b1014994c4d4417992d30b644a0e836ce
 </html>
