@@ -36,7 +36,8 @@ body{
 .score{
   margin-top: 60px;
 }
-.reset-score-btn{
+.reset-score-btn,
+.auto-play-btn{
   padding: 15px;
   font-size: medium;
   border: none;
@@ -47,11 +48,13 @@ body{
   box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
   cursor: pointer;
 }
-.reset-score-btn:hover{
+.reset-score-btn:hover,
+.auto-play-btn:hover{
   transition: background-color 0.15s;
   background-color: rgb(255, 146, 166);
 }
-.reset-score-btn:hover:active{
+.reset-score-btn:hover:active,
+.auto-play-btn:active{
   transform: scale(0.96);
   background-color: rgb(255, 186, 199);
   box-shadow: none;
